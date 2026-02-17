@@ -1,4 +1,4 @@
 # Plexi Hub
-Your one stop shop for all the open-source Omniplex services
+Your one stop shop for all the Omniplex services and infrastructure!
 
 ---
